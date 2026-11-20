@@ -2,4 +2,5 @@
 # 11/15/2026
 # a simple python program to print a message
 
-print('hello world')
+print("hello world")
+print("welcome to github")
